@@ -1,7 +1,5 @@
 select * from dbo.sales;
 
-
-
 [
   {
     "DoCID": "DHOINVGS_2024-1",
